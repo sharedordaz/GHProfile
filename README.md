@@ -1,6 +1,6 @@
 # 💻 Welcome to My GitHub Profile!
 
-Hi there! 👋 I'm Shared Ordaz, a passionate software engineer with a knack for crafting efficient and innovative solutions to technical challenges. I thrive on learning new technologies, solving complex problems, and contributing to impactful projects.
+Hi there! 👋 I'm Shared Ordaz, a Software Developer from BYU Idaho. I appreciate efficiency, creativity, and i'm thrilled to hear about your projects.
 
 ---
 
@@ -9,7 +9,7 @@ Hi there! 👋 I'm Shared Ordaz, a passionate software engineer with a knack for
 - 🎓 **Professional Role:** [Software Developer | IT Engineer]
 - 🎯 **Specialties:** [Full-Stack Development, Python, React, QT, NodeJs  Linux IT Engineer]
 - 📚 **Education:** [Bachelor Degree at BYU Idaho (On Progress), Self Taught IT Engineer with years of experience]
-- 🌱 **Interests:** [Music, Reading, Bakery, Learning new skills]
+- 🌱 **Interests:** [Music, Reading, Bakery, Cryptotrading, Learning new skills]
 
 ---
 
